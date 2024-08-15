@@ -36,6 +36,6 @@
 // let selected = cities.slice(1 , 4);
 // document.write(selected);
 
-var arr = ["this", "is", "my", "cat"];
-arr.toString();
-document.write(arr)
+// var arr = ["this", "is", "my", "cat"];
+// arr.toString();
+// document.write(arr)
